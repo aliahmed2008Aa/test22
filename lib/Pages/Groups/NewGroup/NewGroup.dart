@@ -45,7 +45,7 @@ class NewGroup extends StatelessWidget {
             Row(
               children: [
                 Text(
-                  "جهات الاتصال على path tok",
+                  "جهات الاتصال على Iq chat",
                   style: Theme.of(context).textTheme.labelMedium,
                 ),
               ],

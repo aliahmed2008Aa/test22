@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       builder: FToastBuilder(),
-      title: 'path tok',
+      title: 'Iq chat',
       theme: lightTheme,
       getPages: pagePath,
       darkTheme: darkTheme,

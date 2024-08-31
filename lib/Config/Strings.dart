@@ -1,9 +1,9 @@
 class AppString {
-  static const appName = "path tok";
+  static const appName = "Iq chat";
 }
 
 class WelcomePageString {
-  static const appName = "path tok";
+  static const appName = "Iq chat";
   static const nowYourAre = "Now You Are";
   static const connected = "Connected";
   static const discription =

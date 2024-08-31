@@ -21,7 +21,7 @@ class AppController extends GetxController {
 
   Future<void> checkLatestVersion() async {
     const repositoryOwner = 'MrNitishroy';
-    const repositoryName = 'path tok';
+    const repositoryName = 'Iq chat';
     final response = await http.get(Uri.parse(
       'https://api.github.com/repos/$repositoryOwner/$repositoryName/releases/latest',
     ));

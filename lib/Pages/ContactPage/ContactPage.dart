@@ -60,7 +60,7 @@ class ContactPage extends StatelessWidget {
             SizedBox(height: 10),
             Row(
               children: [
-                Text("جهات اتصالك على path tok"),
+                Text("جهات اتصالك على Iq chat"),
               ],
             ),
             SizedBox(height: 10),
